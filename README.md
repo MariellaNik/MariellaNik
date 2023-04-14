@@ -7,11 +7,12 @@ I am a sophomore student at [https://www.aubg.edu/home-bg/]. I am interested in 
 I am currently learning JS and eager to learn more.
 
 1.Actively using:
-![js](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg) !(https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg)
-!(https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg) !https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg) !(https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg)
+![js](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg) 
+![oracle sql](https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg) ![HTML](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg) ![CSS](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg)
+![git](https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg)
 2. Have beginner knowledge:
-!(https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg)
-!(https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg)
+![C#](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg)
+![REACT](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg)
 
 ##  📫 How to reach me: 
 LinkedIn 	
