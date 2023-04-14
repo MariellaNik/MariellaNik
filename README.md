@@ -17,7 +17,7 @@ I am currently learning JS and eager to learn more.
 LinkedIn 	
 Gmail <img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" />
 
-![image]({[BadgeURLHere](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)})
+![image]({[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white})
 
 <!-- Here are some ideas to get you started:
 
