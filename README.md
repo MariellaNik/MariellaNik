@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am a sophomore student at ![AUBG](https://www.aubg.edu/home-bg/). I am interested in front-end development.
+. I am interested in front-end developmentI am a sophomore student at <a href="https://www.aubg.edu/home-bg/">American University in Bulgaria</a>. I am interested in front-end development.
+
 
 ## 🛠️ Languages and Tools:
 
@@ -23,7 +24,7 @@ I am currently learning JS and eager to learn more.
 
 ##  📫 How to reach me: 
 
-- LinkedIn: <a href="https://www.linkedin.com/in/yourusername">https://www.linkedin.com/in/mariela-nikolova/</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/mariela-nikolova">https://www.linkedin.com/in/mariela-nikolova/</a>
 - Gmail: <a href="mailto:mariela.nik02@gmail.com">mariela.nik02@gmail.com</a>
 
 
@@ -34,7 +35,6 @@ I am currently learning JS and eager to learn more.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
