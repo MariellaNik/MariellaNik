@@ -22,10 +22,10 @@ I am currently learning JS and eager to learn more.
   </p>
 
 ##  📫 How to reach me: 
-LinkedIn 	
-Gmail <img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" />
 
-![image]({[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white})
+- LinkedIn: <a href="https://www.linkedin.com/in/yourusername">https://www.linkedin.com/in/mariela-nikolova/</a>
+- Gmail: <a href="mailto:mariela.nik02@gmail.com">mariela.nik02@gmail.com</a>
+
 
 <!-- Here are some ideas to get you started:
 
