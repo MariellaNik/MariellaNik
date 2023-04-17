@@ -24,7 +24,7 @@ I am currently learning JS and eager to learn more.
 
 ##  📫 How to reach me: 
 
-- LinkedIn: <a href="https://www.linkedin.com/in/mariela-nikolova">https://www.linkedin.com/in/mariela-nikolova/</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mariela-nikolova) 
 - Gmail: <a href="mailto:mariela.nik02@gmail.com">mariela.nik02@gmail.com</a>
 
 # 📊 GitHub Stats:
@@ -32,8 +32,6 @@ I am currently learning JS and eager to learn more.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MariellaNik&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MariellaNik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=MariellaNik&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Here are some ideas to get you started:
 
