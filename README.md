@@ -15,8 +15,7 @@ Actively using or have some knowledge in:
 <img src=https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg alt="CSS" width="50" height="50">
 <img src=https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg alt="GIT" width="50" height="50">
 <img src=https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg alt="C#" width="50" height="50">
-<img src=[https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg alt="REACT" width="50" height="50">
-<img src=https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg alt="Java" width="50" height="50">
+<img src=https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg alt="REACT" width="50" height="50">
   </p>
 
 ##  📫 How to reach me: 
