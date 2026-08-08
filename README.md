@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-I am a junior student at <a href="https://www.aubg.edu/home-bg/">American University in Bulgaria</a>. I am interested in front-end development.
-
-
 ## 🛠️ Languages and Tools:
 
 I am currently learning the following languages and eager to learn more.
